@@ -15,5 +15,5 @@ MonoBehaviour:
   MaxSpeed: 10
   Radius: 0.5
   JumpForce: 10
-  Gravity: -200
+  Gravity: -50
   GravityAcceleration: 20

@@ -617,9 +617,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: e57bd60f-7d31-40f3-808c-4f81c9f663fb
+  projectName: 2D-Platformer
+  organizationId: mark-bennett-bf5df47e-75ad-4d18-a03a-7b9abdbd86db
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
